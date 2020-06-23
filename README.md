@@ -38,3 +38,20 @@ Currently getting an error rate of ~2%
 #### 6. Convert the training data to numpy array and reshape into 3 dimensional
 ![](Images/convert_reshape_train.PNG)
 
+#### 7. Build and compile the model:
+![](Images/build_compile_model.PNG)
+
+#### 8. Train the model
+![](Images/train_model.PNG)
+
+#### 9. Create Test Data
+![](Images/test_data.PNG)
+
+#### 10. Predict the model, get Root Mean Squared Error(RMSE) and visualize
+![](Images/prediction.png)
+
+#### 11. See value vs predicted price in df for comparison
+![](Images/prediction_df.PNG)
+
+#### 12. Use the model to predict the price based on last 60 days data
+![](Images/predict_price.PNG)
