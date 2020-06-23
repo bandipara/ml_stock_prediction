@@ -16,3 +16,11 @@ Currently getting an error rate of ~2%
 
 
 ![](Images/prediction.png)
+
+
+## Steps:
+
+df.shape to get the number of rows and columns in the date
+
+![](Images/df_shape.PNG)
+
