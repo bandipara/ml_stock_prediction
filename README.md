@@ -1,8 +1,9 @@
-# ml_stock_prediction
+# Stock Prices Prediction using Machine Learning
 
 This program uses an artificial recurrent neural network called Long Short Term Memory(LSTM) to predict the stock price using past 60 day data.
 
-## Data Source: Yahoo
+## Data Source: Yahoo Finacne
+Used `pandas_datareader` to read data from Yahoo Finance. This is a great alternative to reading data from APIs. Yahoo Finance is one of the many data sources currently being supported for this library.
 
 ## Technologies used: Python, Machine Learning, Jupyter Notebook
 
