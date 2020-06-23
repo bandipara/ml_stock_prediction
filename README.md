@@ -28,3 +28,5 @@ Visualize Historical Data
 
 ![](Images/plot_historical_data.PNG)
 
+Filter columns, convert the data and get # of rows to train the data on.
+![](Images/filter_convert.PNG)
