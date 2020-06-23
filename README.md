@@ -7,7 +7,7 @@ Used `pandas_datareader` to read data from Yahoo Finance. This is a great altern
 
 Used dynamic dates for end date to GET data up until 'today' everytime the program is ran. 
 
-![](get_stock_quote.PNG)
+![](Images/get_stock_quote.PNG)
 
 ## Technologies used: Python, Machine Learning, Jupyter Notebook
 
