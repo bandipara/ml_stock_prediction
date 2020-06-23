@@ -28,5 +28,8 @@ Visualize Historical Data
 
 ![](Images/plot_historical_data.PNG)
 
-Filter columns, convert the data and get # of rows to train the data on.
+Filter columns, convert the data into numpy array and get # of rows to train the data on.
 ![](Images/filter_convert.PNG)
+
+Scale the data
+![](Images/scale_data.PNG)
