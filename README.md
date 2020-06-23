@@ -20,14 +20,21 @@ Currently getting an error rate of ~2%
 
 ## Steps:
 
-#### df.shape to get the number of rows and columns in the date  
+#### 1. df.shape to get the number of rows and columns in the date  
 ![](Images/df_shape.PNG)
 
-#### Visualize Historical Data  
+#### 2. Visualize Historical Data  
 ![](Images/plot_historical_data.PNG)
 
-#### Filter columns, convert the data into numpy array and get # of rows to train the data on  
+#### 3. Filter columns, convert the data into numpy array and get # of rows to train the data on  
 ![](Images/filter_convert.PNG)
 
-#### Scale the data  
+#### 4. Scale the data  
 ![](Images/scale_data.PNG)
+
+#### 5. Create training dataset
+![](Images/training_dataset.PNG)
+
+#### 6. Convert the training data to numpy array and reshape into 3 dimensional
+![](Images/convert_reshape_train.PNG)
+
