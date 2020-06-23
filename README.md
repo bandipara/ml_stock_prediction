@@ -24,3 +24,7 @@ df.shape to get the number of rows and columns in the date
 
 ![](Images/df_shape.PNG)
 
+Visualize Historical Data
+
+![](Images/plot_historical_data.PNG)
+
